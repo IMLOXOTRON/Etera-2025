@@ -3,7 +3,7 @@ img{
   height:200;
 }
 h1{
-font-size: 15px;
+font-size: 40px;
   color:wiolet;
 }
 h4{
@@ -25,7 +25,8 @@ h20{
 color: red;
 }
 h19{
-color:yellow;
+color:blue;
+  background-color:black;
 }
 h18{
 color:navy;
