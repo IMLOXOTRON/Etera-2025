@@ -1,9 +1,31 @@
-
-  img{
+img{
   width:200px;
   height:200px;
 }
 h1{
+font-size: 40px;
+text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: ;
+
+}
+h4{
+  color:black;
+}
+
+h5{
+color: black;
+}
+
+h6{
+color:black;
+}
+
+h7{
+color:black;
+}
+
+h8{
 color:black;
 }
 
@@ -24,7 +46,11 @@ border:10px solid black;
 h100{
 color:black;
 }
-
+h100:hover {
+  font-size: 20px;
+   background-color: gold;
+   border: 5px solid goldenrod;
+    transition: 0.5s ease-out;
 }
 body{
 background-color: ;
@@ -40,43 +66,36 @@ a{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   border: 3px solid black;
 }
-h3 img{
+h44 img{
   width: 100px;
   height: 100px;
 }
-h3 img:hover {
+h44 img:hover {
     
-    transform:rotateY(20deg);
-    transform: translateX(100%);
+    transform:rotateY(20px);
+    transform: translateX(400px);
     transition: 5s ease-in;
     
 }
-h2 img{
+h66 img{
   width: 100px;
   height: 100px;
 }
-h2 img:hover {
+h66 img:hover {
     
-    transform:rotateY(20deg);
-    transform: translateX(100%);
+    transform:rotateY(20px);
+    transform: translateX(400px);
     transition: 5s ease-in;
     
 }
-h4 img{
+h77 img{
   width: 100px;
   height: 100px;
 }
-h4 img:hover {
+h77 img:hover {
     
-    transform:rotateY(20deg);
-    transform: translateX(100%);
+    transform:rotateY(20px);
+    transform: translateX(400px);
     transition: 5s ease-in;
     
 }
-.pyt{
-font-size: 40px;
-text-align: center;
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-background-color: ;
-}
-
