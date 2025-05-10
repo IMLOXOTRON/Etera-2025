@@ -46,12 +46,11 @@ border:10px solid black;
 }
 h100{
 color:black;
+font-size: 60px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
 }
-h100:hover {
-  font-size: 20px;
-   background-color: gold;
-   border: 5px solid goldenrod;
-    transition: 0.5s ease-out;
+
 }
 body{
 background-color: ;
