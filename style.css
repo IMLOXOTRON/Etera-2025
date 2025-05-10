@@ -1,6 +1,16 @@
-img{
-  width:200;
-  height:200;
+img {
+    opacity: 0.2;
+    width: 150px;
+    height: 200px;
+}
+img:hover {
+    opacity: 1;
+    width:200px;
+    height:250px;
+    padding: 5px;
+    transition: 0.5s ease-out;
+}
+
 }
 h1{
 font-size: 40px;
@@ -30,6 +40,9 @@ color:blue;
 }
 h18{
 color:navy;
+}
+ifrage{
+border:6px solid gold
 }
   
 
