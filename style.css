@@ -73,7 +73,7 @@ h44 img{
 h44 img:hover {
     
     transform:rotateY(20px);
-    transform: translateX(400px);
+    transform: translateX(1100px);
     transition: 5s ease-in;
     
 }
@@ -84,7 +84,7 @@ h66 img{
 h66 img:hover {
     
     transform:rotateY(20px);
-    transform: translateX(400px);
+    transform: translateX(1100px);
     transition: 5s ease-in;
     
 }
@@ -95,7 +95,7 @@ h77 img{
 h77 img:hover {
     
     transform:rotateY(20px);
-    transform: translateX(400px);
+    transform: translateX(1100px);
     transition: 5s ease-in;
     
 }
