@@ -35,7 +35,6 @@ color: black;
 
 h19{
 color:blue;
-  background-color:black;
 }
 h18{
 color:black;
@@ -55,6 +54,7 @@ h100:hover {
 body{
 background-color: ;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size:20px;
 }
 header{
 
@@ -74,7 +74,7 @@ h44 img:hover {
     
     transform:rotateY(20px);
     transform: translateX(1100px);
-    transition: 4s ease-in;
+    transition: 5s ease-in;
     
 }
 h66 img{
@@ -85,7 +85,7 @@ h66 img:hover {
     
     transform:rotateY(20px);
     transform: translateX(1100px);
-    transition: 6s ease-in;
+    transition: 7s ease-in;
     
 }
 h77 img{
@@ -96,6 +96,6 @@ h77 img:hover {
     
     transform:rotateY(20px);
     transform: translateX(1100px);
-    transition: 3s ease-in;
+    transition: 4s ease-in;
     
 }
