@@ -17,32 +17,77 @@ font-size: 40px;
   color:wiolet;
 }
 h4{
-  color:green;
+  color:black;
+}
+h4:hover {
+  font-size: 10px;
+   background-color: gold;
+   border: 5px solid goldenrod;
+    transition: 0.5s ease-out;
 }
 h5{
-color: orange;
+color: black;
+}
+h5:hover {
+  font-size: 10px;
+   background-color: gold;
+   border: 5px solid goldenrod;
+    transition: 0.5s ease-out;
 }
 h6{
-color:blue;
+color:black;
+}
+h5:hover {
+  font-size: 10px;
+   background-color: gold;
+   border: 5px solid goldenrod;
+    transition: 0.5s ease-out;
 }
 h7{
-color:gray;
+color:black;
+}
+h7:hover {
+  font-size: 10px;
+   background-color: gold;
+   border: 5px solid goldenrod;
+    transition: 0.5s ease-out;
 }
 h8{
-color:gold;
+color:black;
+}
+h8:hover {
+  font-size: 10px;
+   background-color: gold;
+   border: 5px solid goldenrod;
+    transition: 0.5s ease-out;
 }
 h20{
-color: red;
+color: black;
+}
+h20:hover {
+  font-size: 10px;
+   background-color: gold;
+   border: 5px solid goldenrod;
+    transition: 0.5s ease-out;
 }
 h19{
 color:blue;
   background-color:black;
 }
 h18{
-color:navy;
+color:black;
 }
 ifrage{
 border:6px solid gold
+}
+h100{
+color:black;
+}
+h100:hover {
+  font-size: 10px;
+   background-color: gold;
+   border: 5px solid goldenrod;
+    transition: 0.5s ease-out;
 }
   
 
