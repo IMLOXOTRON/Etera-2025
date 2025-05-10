@@ -4,29 +4,6 @@
   height:200px;
 }
 h1{
-font-size: 40px;
-text-align: center;
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-background-color: ;
-
-}
-h4{
-  color:black;
-}
-
-h5{
-color: black;
-}
-
-h6{
-color:black;
-}
-
-h7{
-color:black;
-}
-
-h8{
 color:black;
 }
 
@@ -63,33 +40,33 @@ a{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   border: 3px solid black;
 }
-h44 img{
+h3 img{
   width: 100px;
   height: 100px;
 }
-h44 img:hover {
+h3 img:hover {
     
     transform:rotateY(20px);
     transform: translateX(100%px);
     transition: 5s ease-in;
     
 }
-h66 img{
+h2 img{
   width: 100px;
   height: 100px;
 }
-h66 img:hover {
+h2 img:hover {
     
     transform:rotateY(20px);
     transform: translateX(100%px);
     transition: 5s ease-in;
     
 }
-h77 img{
+h4 img{
   width: 100px;
   height: 100px;
 }
-h77 img:hover {
+h4 img:hover {
     
     transform:rotateY(20px);
     transform: translateX(100%px);
